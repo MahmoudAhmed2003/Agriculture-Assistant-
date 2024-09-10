@@ -32,3 +32,6 @@ I was responsible for developing and implementing the **hardware** components of
 - **Firebase**: For cloud storage and real-time updates.
 - **AI Model**: For disease detection from plant images.
 - **Mobile App**: For displaying real-time monitoring results.
+
+## Real-Time Test:
+You can watch a video of the project in action [here](https://drive.google.com/file/d/10gXEsYdkBXdwhkOiexMVS6KooX1hr4vg/view?usp=drivesdk).
