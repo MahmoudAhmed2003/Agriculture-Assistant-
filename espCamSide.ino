@@ -19,7 +19,7 @@
 #define espSerial Serial2
 
 #define txPin 14  // TX pin (connected to RX of other ESP)
-#define rxPin 15   // RX pin (صnot used for sending)
+#define rxPin 15   // RX pin (not used for sending)
 
 #define FLASH_GPIO_NUM 4
 
